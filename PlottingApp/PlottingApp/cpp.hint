@@ -1,0 +1,13 @@
+// Hint files help the Visual Studio IDE interpret Visual C++ identifiers
+// such as names of functions and macros.
+// For more information see https://go.microsoft.com/fwlink/?linkid=865984
+#define afx_msg
+#define DECLARE_MESSAGE_MAP() protected: static const AFX_MSGMAP* PASCAL GetThisMessageMap(); const AFX_MSGMAP* GetMessageMap() const override;
+// Hint files help the Visual Studio IDE interpret Visual C++ identifiers
+// such as names of functions and macros.
+// For more information see https://go.microsoft.com/fwlink/?linkid=865984
+#define DECLARE_MESSAGE_MAP() protected: static const AFX_MSGMAP* PASCAL GetThisMessageMap(); const AFX_MSGMAP* GetMessageMap() const override;
+// Hint files help the Visual Studio IDE interpret Visual C++ identifiers
+// such as names of functions and macros.
+// For more information see https://go.microsoft.com/fwlink/?linkid=865984
+#define DECLARE_MESSAGE_MAP() protected: static const AFX_MSGMAP* PASCAL GetThisMessageMap(); const AFX_MSGMAP* GetMessageMap() const override;
