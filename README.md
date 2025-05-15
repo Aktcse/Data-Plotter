@@ -1,1 +1,1 @@
-# Develop a plotting Utility for visualize the radar data on client server area.
+# Developing a plotting Utility for visualization of radar data on client server area.
